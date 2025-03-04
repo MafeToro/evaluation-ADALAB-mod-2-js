@@ -1,0 +1,1 @@
+This is a mid-course evaluation, to prove knowledges and improve js skills. This exercise is published on Github Pages, you can check it out here: https://mafetoro.github.io/evaluation-ADALAB-mod-2-js/
