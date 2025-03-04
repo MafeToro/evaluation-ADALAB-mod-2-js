@@ -27,7 +27,7 @@ if (userInput.value < 0 || userInput.value > 100) {
     return; 
 }
    if (userInputValue === randomNumber) {
-    message.innerHTML = "Has ganado campeona!!!"
+    message.innerHTML = "Has ganado campeona!!! 💪💜"
     } else if (userInputValue < randomNumber) {
     message.innerHTML = "Demasiado bajo";
 } else {
