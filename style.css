@@ -1,0 +1,36 @@
+.input-number {
+    background-color: rgba(179, 172, 172, 0.521);
+    padding: 10px;
+    border-color: rgba(179, 172, 172, 0.521);
+}
+
+.submit-btn {
+    color: white;
+    background-color: aqua;
+    border-color: aqua;
+    border-radius: 10%;
+    padding: 10px;
+}
+
+.title {
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.label {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.clue {
+    background-color: rgb(211, 183, 209);
+    border: solid 1px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+}
+
+.counter-number {
+    background-color: rgb(211, 183, 209);
+    border: solid 1px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+}
