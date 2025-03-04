@@ -22,7 +22,7 @@ const handleClick = (ev) => {
     ev.preventDefault();
     const userInputValue = parseInt(userInput.value)
     console.log();
-if (userInput.value < 0 || userInput.value > 100) {
+if (userInputValue < 0 || userInputValue > 100 || !userInputValue) {
     message.innerHTML = "El número debe estar entre 1 y 100.";
     return; 
 }
